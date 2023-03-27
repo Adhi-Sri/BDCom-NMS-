@@ -1,2 +1,4 @@
 # BDCom-NMS
-Monitoring tools for vendor BDCom Networking devices.
+Monitoring tools 
+
+It's helps to BDcom vendor network device monitoring and analzing the issue for Windows PC.
